@@ -4,7 +4,7 @@
 
 ## Model
 <div align="center">
-   <img src='imgs/MetaLearner.png' height="400px"><img src='imgs/BaseLearner.png' height="400px">
+   <img src='imgs/MetaLearner.png' height="400"><img src='imgs/BaseLearner.png' height="400">
 </div>
 
 ## Prerequisites
