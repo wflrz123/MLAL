@@ -10,7 +10,7 @@ python main.py --mode test \
                --input-size 4 \
                --hidden-size 4 \
                --lr 1e-3 \
-               --episode 52000 \
+               --episode 50000 \
                --episode-val 100 \
                --epoch 8 \
                --batch-size 25 \
