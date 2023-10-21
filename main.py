@@ -26,6 +26,7 @@ import sys
 import numpy as np
 import argparse
 
+# add by rzliao
 FLAGS = argparse.ArgumentParser()
 FLAGS.add_argument('--mode', choices=['train', 'test'])
 # Hyper-parameters
